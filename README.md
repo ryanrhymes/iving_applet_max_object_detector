@@ -1,0 +1,1 @@
+# iving_applet_max_object_detector
