@@ -1,4 +1,4 @@
-# iving_applet_max_object_detector
+# iving_applet
 
 
 # Note
